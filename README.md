@@ -1,0 +1,1 @@
+Simulations for single-cell RNAseq in yeast. Major goals are identifying numbers of cells to target in future experiments such that minimal desired effect sizes will be captured. A secondary goal is understanding how dispersion will influence what can be learned. 
